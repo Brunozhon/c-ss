@@ -1,0 +1,4 @@
+/*Just 3 lines of code*/
+icon[url]:before {
+  background-image: url(attr(url));
+}
