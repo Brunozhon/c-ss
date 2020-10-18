@@ -1,0 +1,6 @@
+css-color[color] {
+  color: attr(color);
+}
+css-bg-color[bg-color] {
+  color: attr(bg-color);
+}
