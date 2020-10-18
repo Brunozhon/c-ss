@@ -1,6 +1,6 @@
 # c-ss
 
-C-ss (pronounced siss) is a CSS icon and style editor.
+C-ss (pronounced siss) is a CSS and icon styler.
 
 # Additions
 
