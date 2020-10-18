@@ -2,7 +2,7 @@
 
 C-ss (pronounced siss) is a CSS icon and style editor.
 
-# Adiitions
+# Additions
 
 - 60e5f08243ab26d59a39a3f1b7676b583e400da1 (c-ss-styles/icons.css)
 - a65f6d9b9405d3736e1b1764b570957de109ca46 (c-ss-icons/circle.svg)
